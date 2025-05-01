@@ -1,0 +1,13 @@
+﻿//  sbyte a = 52;
+//         byte b = 130;
+//         short c = -115;
+//         uint d = 4825932;
+//         sbyte e = 97;
+//         short f = -10000;
+//         ushort g = 20000;
+//         byte h = 224;
+//         uint i = 970700000;
+//         byte j = 112;
+//         int k = -1000000;
+//         short l = 1990;
+//         ulong m = 123456789123456789;
