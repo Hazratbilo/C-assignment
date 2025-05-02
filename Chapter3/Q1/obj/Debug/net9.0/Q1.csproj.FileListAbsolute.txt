@@ -1,0 +1,15 @@
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.AssemblyInfoInputs.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.AssemblyInfo.cs
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.csproj.CoreCompileInputs.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.sourcelink.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\bin\Debug\net9.0\Q1.exe
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\bin\Debug\net9.0\Q1.deps.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\bin\Debug\net9.0\Q1.runtimeconfig.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\bin\Debug\net9.0\Q1.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\bin\Debug\net9.0\Q1.pdb
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\refint\Q1.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.pdb
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\Q1.genruntimeconfig.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter3\q1\obj\Debug\net9.0\ref\Q1.dll
