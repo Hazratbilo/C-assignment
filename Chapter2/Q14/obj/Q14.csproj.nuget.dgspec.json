@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter2\\Q14\\Q14.csproj": {}
+    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\assignment\\Chapter2\\Q14\\Q14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter2\\Q14\\Q14.csproj": {
+    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\assignment\\Chapter2\\Q14\\Q14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter2\\Q14\\Q14.csproj",
+        "projectUniqueName": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\assignment\\Chapter2\\Q14\\Q14.csproj",
         "projectName": "Q14",
-        "projectPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter2\\Q14\\Q14.csproj",
+        "projectPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\assignment\\Chapter2\\Q14\\Q14.csproj",
         "packagesPath": "C:\\Users\\ALATOYE BILAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter2\\Q14\\obj\\",
+        "outputPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\assignment\\Chapter2\\Q14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALATOYE BILAL\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\bin\Debug\net9.0\Q8.exe
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\bin\Debug\net9.0\Q8.deps.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\bin\Debug\net9.0\Q8.runtimeconfig.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\bin\Debug\net9.0\Q8.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\bin\Debug\net9.0\Q8.pdb
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.AssemblyInfoInputs.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.AssemblyInfo.cs
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.csproj.CoreCompileInputs.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.sourcelink.json
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\refint\Q8.dll
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.pdb
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\Q8.genruntimeconfig.cache
+C:\Users\ALATOYE BILAL\Desktop\My files\c#\Assignment\Chapter5\Q8\obj\Debug\net9.0\ref\Q8.dll
