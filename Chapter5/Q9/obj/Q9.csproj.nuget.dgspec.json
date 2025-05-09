@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter5\\Q9\\Q9.csproj": {}
+    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\chapter5\\q9\\Q9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter5\\Q9\\Q9.csproj": {
+    "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\chapter5\\q9\\Q9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter5\\Q9\\Q9.csproj",
+        "projectUniqueName": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\chapter5\\q9\\Q9.csproj",
         "projectName": "Q9",
-        "projectPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter5\\Q9\\Q9.csproj",
+        "projectPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\chapter5\\q9\\Q9.csproj",
         "packagesPath": "C:\\Users\\ALATOYE BILAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\Chapter5\\Q9\\obj\\",
+        "outputPath": "C:\\Users\\ALATOYE BILAL\\Desktop\\My files\\c#\\Assignment\\chapter5\\q9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALATOYE BILAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
